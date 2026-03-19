@@ -1,4 +1,4 @@
-# My Project
+# http-server
 
 <p align="center">
   <img src="./github/image.png" width="600"/>
